@@ -1,4 +1,4 @@
-# Amazon QLDB Driver for Java 
+# Amazon QLDB Driver for Java  
 This package provides an interface to [Amazon QLDB](https://aws.amazon.com/qldb/) for Java.
 
 With the Amazon QLDB Driver for Java you can create a session with connectivity to a specific ledger in QLDB. This 
